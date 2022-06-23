@@ -1,0 +1,15 @@
+--DDL para criar uma tabela
+--DLL define objetos do banco de dados como tabelas e colunas
+create table clientes(
+
+id_usuario INTEGER UNIQUE PRIMARY KEY AUTOINCREMENT,
+nome TEXT NOT NULL,
+idade INTEGER NOT NULL,
+cpf TEXT UNIQUE NOT NULL,
+numero_conta TEXT UNIQUE NOT NULL,
+agencia TEXT NOT NULL,
+nome_pai TEXT NOT NULL,
+nome_mae TEXT NOT NULL,
+endereco TEXT NOT NULL
+);
+

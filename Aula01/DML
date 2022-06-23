@@ -1,0 +1,16 @@
+
+--DML manipula os dados do banco como inserts, update, delete e select
+--verificando se a tabela existe
+select * from clientes;
+
+
+--inserindo um registro na tabela pessoa
+--CREATE
+--para inserir é necessario informar os campos e respectivamente os valores
+insert into clientes (nome,idade,cpf,numero_conta,agencia,nome_pai,nome_mae,endereco) 
+values("Erick Gabriel Carvalho da Silva",16,"120.403.069.35","10920","219",
+"Ayres Jose Carvalho da Silva","Rita Maria Carvalho da Silva","Guarupu, Mafra-SC");
+
+
+--DELETE
+delete from clientes;
