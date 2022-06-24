@@ -1,4 +1,4 @@
-# entra21 Bancos relacionais
+# Bancos relacionais
 Repositório com as práticas realizadas em aula  
 
 > Conteúdo prático realizado em sala durante o projeto Entra21
@@ -7,7 +7,7 @@ Repositório com as práticas realizadas em aula
 > - Linguagem markdown
 > - Documentação
 ![Gif Entra21](/entra21.gif)
-## Aula Ministradas
+## Conteudos Abordados
 
 <a href="#"><img align="center" src="./giphy.gif" width="400 " height="300" /></a>
 
