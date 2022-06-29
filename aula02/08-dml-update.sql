@@ -29,4 +29,3 @@ name like "%a"
 and sex is null
 and name != "Osma"
 ;
-

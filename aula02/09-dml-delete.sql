@@ -1,3 +1,4 @@
+
 select * from pessoa;
 
 delete from pessoa

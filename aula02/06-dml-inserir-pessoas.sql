@@ -18,20 +18,20 @@ INSERT INTO pessoa (
                        country
                    )
                    VALUES (
-                       "Anthony",
-                       50,
-                       "male",
-                       "056.456.258-96",
-                       "Maria Stark",
-                       "Howard Stark",
-                       "iron_man@avenger.com.br",
-                       "7070-7070",
-                       "St. Iron",
-                       "100",
-                       "89666-000",
-                       "Avengerland",
-                       "Ironland",
-                       "IronManLand"
+                       "Lucas",
+                       25,
+                       "Masculino",
+                       "074.284.619-95",
+                       "Elaine",
+                       "Fabricio",
+                       "lucascagostinho@gmail.com",
+                       "48999269781",
+                       "Rua Laguna",
+                       "106",
+                       "88704-600",
+                       "Tubarão",
+                       "Santa Catarina",
+                       "Brasil"
                    );
 
 INSERT INTO pessoa (
@@ -39,39 +39,39 @@ INSERT INTO pessoa (
                        name_mother
                    )
                    VALUES (
-                       "Ariana",
-                       "Jacinta"
+                       "Clara",
+                       "não sei"
                    );
-
+                   
 INSERT INTO pessoa (
                        name,
                        name_mother,
                        age
                    )
                    VALUES (
-                       "Bruna",
-                       "Jacinta",
-                       19
+                       "Maria",
+                       "não",
+                       23
                    );
-
+                   
 INSERT INTO pessoa (
                        name,
                        name_mother,
                        age
                    )
                    VALUES (
-                       "Cecilia",
-                       "Jacinta",
-                       25
+                       "Fabricio",
+                       "não",
+                       51
                    );
-
+                   
 INSERT INTO pessoa (
                        name,
                        name_mother,
                        age
                    )
                    VALUES (
-                       "Daiana",
-                       "Jacinta",
-                       13
+                       "Amanda",
+                       "simn",
+                       24
                    );
